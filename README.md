@@ -1,4 +1,4 @@
-# CPSC484_UnrealEngine-RayTracing-Project
+# Unreal Engine RayTracing Project
 
 ## Created By:
 * Jorge Diaz
